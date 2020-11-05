@@ -59,8 +59,6 @@ Genere	Category of each movie
 Age	User’s age  
 Occupation	User’s Occupation  
 Zip-code	Zip Code for the user’s location  
- 
-  
 Gender is denoted by an "M" for male and "F" for female  
 Age is chosen from the following ranges:  
 
@@ -72,7 +70,6 @@ Age is chosen from the following ranges:
 45	"45-49"  
 50	"50-55"  
 56	"56+"  
-   
   
 Occupation is chosen from the following choices:  
 # Value Description
